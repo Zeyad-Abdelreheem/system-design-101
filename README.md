@@ -1,7 +1,8 @@
 # system-design-101
 
 This repo is created to act as a beginner friendly system design course.
-the topics it will cover is as follows
+the topics it will cover is as follows 
+
 𝟭) 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻
 - Scalability
 - Fault tolerance
