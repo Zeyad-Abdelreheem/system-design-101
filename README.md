@@ -4,7 +4,7 @@ This repo is created to act as a beginner friendly system design course.
 the topics it will cover is as follows 
 
 𝟭) 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻
-- Scalability
+- [Scalability](https://medium.com/@zeyadomar.4217/system-design-101-8a70b9422d3c)
 - Fault tolerance
 - Load balancing
 - Caching
