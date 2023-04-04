@@ -8,12 +8,9 @@ the topics it will cover is as follows
 - Fault tolerance
 - Load balancing
 - Caching
-- Availability
-- Consistency
+- [CAP Theorem] (https://medium.com/@zeyadomar.4217/cap-theorem-dont-be-greedy-just-pick-2-cdff9c82213a) (Consistency, Availability, Partition Tolerance)
 - Latency
 - Throughput
-- Partition Tolerance
-- CAP Theorem
 - ACID Properties
 
 𝟮) 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀
