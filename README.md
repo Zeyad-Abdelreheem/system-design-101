@@ -8,7 +8,7 @@ the topics it will cover is as follows
 - Fault tolerance
 - Load balancing
 - Caching
-- [CAP Theorem] (https://medium.com/@zeyadomar.4217/cap-theorem-dont-be-greedy-just-pick-2-cdff9c82213a) (Consistency, Availability, Partition Tolerance)
+- [CAP Theorem](https://medium.com/@zeyadomar.4217/cap-theorem-dont-be-greedy-just-pick-2-cdff9c82213a) (Consistency, Availability, Partition Tolerance)
 - Latency
 - Throughput
 - ACID Properties
