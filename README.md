@@ -6,7 +6,7 @@ the topics it will cover is as follows
 𝟭) 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻
 - [Scalability](https://medium.com/@zeyadomar.4217/system-design-101-8a70b9422d3c)
 - Fault tolerance
-- Load balancing
+- [Load balancing](https://medium.com/@zeyadomar.4217/load-balancers-the-traffic-cop-of-the-internet-c77ac6fa7f0a)
 - Caching
 - [CAP Theorem](https://medium.com/@zeyadomar.4217/cap-theorem-dont-be-greedy-just-pick-2-cdff9c82213a) (Consistency, Availability, Partition Tolerance)
 - Latency
