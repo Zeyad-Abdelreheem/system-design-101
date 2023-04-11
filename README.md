@@ -8,7 +8,7 @@ the topics it will cover is as follows
 - [Load balancing](https://medium.com/@zeyadomar.4217/load-balancers-the-traffic-cop-of-the-internet-c77ac6fa7f0a)
 - Caching
 - [CAP Theorem](https://medium.com/@zeyadomar.4217/cap-theorem-dont-be-greedy-just-pick-2-cdff9c82213a) (Consistency, Availability, Partition Tolerance)
-- ACID Properties
+- [ACID Properties](https://medium.com/@zeyadomar.4217/acid-properties-what-why-and-how-674a51a346be)
 
 𝟮) 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀
 - Microservices
