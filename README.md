@@ -11,7 +11,7 @@ the topics it will cover is as follows
 - [ACID Properties](https://medium.com/@zeyadomar.4217/acid-properties-what-why-and-how-674a51a346be)
 
 𝟮) 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀
-- Microservices
+- [Microservices](https://medium.com/@zeyadomar.4217/microservices-why-your-business-cant-afford-to-ignore-them-4cba4753b4da)
 - Sharding
 - Event sourcing
 - Circuit Breaker
@@ -35,7 +35,6 @@ the topics it will cover is as follows
 - Gossip Protocol
 - Bloom Filter
 - Heartbeat
-- CAP and PACELC Theorems
 
 𝟱) 𝗟𝗲𝗮𝗿𝗻 𝗵𝗼𝘄 𝘁𝗼 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝘆𝗼𝘂𝗿 𝘁𝗵𝗼𝘂𝗴𝗵𝘁 𝗽𝗿𝗼𝗰𝗲𝘀𝘀
 - Start with the problem statement
