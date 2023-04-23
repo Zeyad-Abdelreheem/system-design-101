@@ -12,7 +12,7 @@ the topics it will cover is as follows
 
 𝟮) 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀
 - [Microservices](https://medium.com/@zeyadomar.4217/microservices-why-your-business-cant-afford-to-ignore-them-4cba4753b4da)
-- Sharding
+- [Sharding](https://medium.com/@zeyadomar.4217/sharding-big-data-is-no-longer-an-issue-2bfcda96981f)
 - Event sourcing
 - Circuit Breaker
 - Reverse proxy
