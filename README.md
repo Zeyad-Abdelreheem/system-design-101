@@ -15,7 +15,7 @@ the topics it will cover is as follows
 - [Sharding](https://medium.com/@zeyadomar.4217/sharding-big-data-is-no-longer-an-issue-2bfcda96981f)
 - [Event sourcing](https://www.linkedin.com/posts/zeyad-omar_design-activity-7056634190443745280-QG-l?utm_source=share&utm_medium=member_desktop)
 - [Circuit Breaker](https://blog.bitsrc.io/circuit-breaker-pattern-in-microservices-26bf6e5b21ff) by [Chameera Dulanga](https://chameeradulanga.medium.com/)
-- Reverse proxy
+- [Reverse proxy](https://youtu.be/ozhe__GdWC8) by Hussein Nasser
 - Backpressure
 - CQRS (Command Query Responsibility Segregation)
 - Object Pool
