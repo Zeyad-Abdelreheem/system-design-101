@@ -16,9 +16,7 @@ the topics it will cover is as follows
 - [Event sourcing](https://www.linkedin.com/posts/zeyad-omar_design-activity-7056634190443745280-QG-l?utm_source=share&utm_medium=member_desktop)
 - [Circuit Breaker](https://blog.bitsrc.io/circuit-breaker-pattern-in-microservices-26bf6e5b21ff) by [Chameera Dulanga](https://chameeradulanga.medium.com/)
 - [Reverse proxy](https://youtu.be/ozhe__GdWC8) by Hussein Nasser
-- Backpressure
 - CQRS (Command Query Responsibility Segregation)
-- Object Pool
 
 𝟯) 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘁𝘆 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝘁𝘆𝗽𝗲𝘀 𝗼𝗳 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 - Relational databases
