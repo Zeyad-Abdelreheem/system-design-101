@@ -19,7 +19,7 @@ the topics it will cover is as follows
 - Command Query Responsibility Segregation ([CQRS](https://youtu.be/DQ3D_mplIgY)) by Hussein Nasser
 
 𝟯) 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘁𝘆 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝘁𝘆𝗽𝗲𝘀 𝗼𝗳 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
-- Relational databases
+- [Relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/)
 - NoSQL databases
 - Distributed key-value stores
 - Document databases
