@@ -20,11 +20,10 @@ the topics it will cover is as follows
 
 𝟯) 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘁𝘆 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝘁𝘆𝗽𝗲𝘀 𝗼𝗳 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 - [Relational databases](https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/)
-- NoSQL databases
+- [NoSQL databases](https://youtu.be/0buKQHokLK8)
 - Distributed key-value stores
 - Document databases
 - Graph databases
-- Time-series databases
 
 𝟰) 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘁𝘆 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝘁𝘆𝗽𝗲𝘀 𝗼𝗳 𝗱𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗮𝗻𝗱 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
 - Merkle Tree
